@@ -12,7 +12,6 @@ Below are the steps to get started and view the website.
  - Open terminal/cmd and navigate to Project One root folder.
  - Type python app.py
  - App will automatically open program in default web browser.  
- - What's included
 
 What's Included
 ---------------
