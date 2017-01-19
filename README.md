@@ -17,11 +17,11 @@ What's Included
 ---------------
 Within the download you'll find the following files.
 
-ProjectOne/
-├── app.py
-├── data_requester.py
-├── fresh_tomatoes.py
-├── movie.py
+ProjectOne:
+ - app.py
+ - data_requester.py
+ - fresh_tomatoes.py
+ - movie.py
 
 Creators
 --------
